@@ -5,3 +5,6 @@ This project was created based on research activity that was published in IOP Co
 https://iopscience.iop.org/article/10.1088/1755-1315/884/1/012006
 
 All script wrote in Python with Jupyter Notebook for the computation platform. QGIS is also used to help partially with spatial data management and map generation.
+
+## Training and Testing dataset
+
